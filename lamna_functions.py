@@ -1,0 +1,1 @@
+palindrome=lambda sting
